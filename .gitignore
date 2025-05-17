@@ -8,3 +8,15 @@ wheels/
 
 # Virtual environments
 .venv
+.env
+
+
+# data
+data/
+data/*
+../notebooks/downloads/
+../notebooks/reserve-files/
+../data/*
+../data/downloads/*
+../data/reserve-files/*
+../data/downloads/reserve-files/*
